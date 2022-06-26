@@ -94,5 +94,5 @@ int main()
     printf("\nSorted array is \n");
     printArray(arr, arr_size);
 
-    return 0;
+    return 2;
 }
